@@ -1,0 +1,299 @@
+{
+  "nodeList": [
+    {
+      "type": "M",
+      "nodeId": "#20240803063438_dWAQ",
+      "content": "農家数の減少",
+      "coord": "500,300",
+      "width": 100,
+      "height": 40
+    },
+    {
+      "type": "M",
+      "nodeId": "#20240803063438_jow5",
+      "content": "離農・転出の加速\n後継者不足",
+      "coord": "300,400",
+      "width": 153,
+      "height": 61
+    },
+    {
+      "type": "M",
+      "nodeId": "#20240803063438_RkKx",
+      "content": "農家の高齢化",
+      "coord": "700,400",
+      "width": 100,
+      "height": 40
+    },
+    {
+      "type": "M",
+      "nodeId": "#20240803063438_rwEG",
+      "content": "収入の低下\n不満・愚痴の日常化",
+      "coord": "500,500",
+      "width": 152,
+      "height": 51
+    },
+    {
+      "type": "M",
+      "nodeId": "#20240803063438_iCkY",
+      "content": "耕作放棄地/遊休農地の増加\n営農環境維持の困難さ",
+      "coord": "900,300",
+      "width": 186,
+      "height": 67
+    },
+    {
+      "type": "M",
+      "nodeId": "#20240803063438_5YK6",
+      "content": "地域活動の衰退\nあきらめの蔓延",
+      "coord": "900,500",
+      "width": 122,
+      "height": 48
+    },
+    {
+      "type": "M",
+      "nodeId": "#20240803063438_GNA8",
+      "content": "農産物・加工品・イベントの競争力低下\n商品ブランド能力、販売力低下",
+      "coord": "700,600",
+      "width": 257,
+      "height": 50
+    },
+    {
+      "type": "M",
+      "nodeId": "#20240803063438_I97D",
+      "content": "地域の魅力や誇りが見えなくなる\n主体性、開放性、革新性の低下",
+      "coord": "1100,400",
+      "width": 284,
+      "height": 66
+    },
+    {
+      "type": "solution",
+      "nodeId": "#20240803063438_51md",
+      "content": "コミュニティカフェの設置",
+      "coord": "1100,600",
+      "width": 180,
+      "height": 40
+    },
+    {
+      "type": "solution",
+      "nodeId": "#20240803063438_8mQg",
+      "content": "シェアキッチンの設置",
+      "coord": "900,700",
+      "width": 180,
+      "height": 40
+    },
+    {
+      "type": "causal",
+      "nodeId": "#20240803063438_Uf5F",
+      "content": "農家と様々な人々の交流促進",
+      "coord": "1100,700",
+      "width": 200,
+      "height": 40
+    },
+    {
+      "type": "background",
+      "nodeId": "#20240803063438_i1HA",
+      "content": "山と海に近い立地",
+      "coord": "1300,200",
+      "width": 150,
+      "height": 40
+    },
+    {
+      "type": "solution",
+      "nodeId": "#20240803063438_Slaz",
+      "content": "看板やペンキ塗りでの地域活性化",
+      "coord": "1300,600",
+      "width": 250,
+      "height": 40
+    },
+    {
+      "type": "solution",
+      "nodeId": "#20240803063438_m4Jb",
+      "content": "トラクターに椅子を付けたツアー",
+      "coord": "500,700",
+      "width": 100,
+      "height": 75
+    },
+    {
+      "type": "solution",
+      "nodeId": "#20240803063438_jdxs",
+      "content": "ヨガや自然体験プログラム",
+      "coord": "1300,500",
+      "width": 100,
+      "height": 57
+    },
+    {
+      "type": "causal",
+      "nodeId": "#20240803063438_2WjC",
+      "content": "梅干しの健康効果（熱中症予防含む）",
+      "coord": "300,600",
+      "width": 100,
+      "height": 57
+    },
+    {
+      "type": "solution",
+      "nodeId": "#20240803063438_m3wA",
+      "content": "梅を使ったエナジードリンク開発",
+      "coord": "300,700",
+      "width": 100,
+      "height": 75
+    },
+    {
+      "type": "solution",
+      "nodeId": "#20240803063438_cCmy",
+      "content": "梅干しの食習慣化プロモーション",
+      "coord": "100,600",
+      "width": 100,
+      "height": 75
+    },
+    {
+      "type": "causal",
+      "nodeId": "#20240803063438_3gHe",
+      "content": "地産地消の可能性",
+      "coord": "700,700",
+      "width": 100,
+      "height": 57
+    },
+    {
+      "type": "solution",
+      "nodeId": "#20240803063438_QRtN",
+      "content": "梅を使ったスポーツ向け商品開発",
+      "coord": "500,800",
+      "width": 100,
+      "height": 75
+    },
+    {
+      "type": "causal",
+      "nodeId": "#20240803063438_H22b",
+      "content": "梅の副産物（種、エキス、剪定した木）の活用可能性",
+      "coord": "700,800",
+      "width": 100,
+      "height": 57
+    },
+    {
+      "type": "solution",
+      "nodeId": "#20240803063438_tfS7",
+      "content": "電動自転車・電動キックボードのレンタル",
+      "coord": "1100,800",
+      "width": 100,
+      "height": 93
+    },
+    {
+      "type": "solution",
+      "nodeId": "#20240803063438_dP8Z",
+      "content": "梅プロショップの設置",
+      "coord": "900,800",
+      "width": 100,
+      "height": 57
+    },
+    {
+      "type": "causal",
+      "nodeId": "#20240803063438_NJqk",
+      "content": "地域の回遊性向上",
+      "coord": "1300,800",
+      "width": 100,
+      "height": 57
+    },
+    {
+      "type": "solution",
+      "nodeId": "#20240803063438_fCln",
+      "content": "スタンプラリーと連携した梅ドリンクサービス",
+      "coord": "1100,900",
+      "width": 100,
+      "height": 93
+    },
+    {
+      "type": "solution",
+      "nodeId": "#20240803063438_sHaa",
+      "content": "様々な専門チームの結成",
+      "coord": "900,900",
+      "width": 100,
+      "height": 57
+    },
+    {
+      "type": "explanation",
+      "nodeId": "#explanation_1",
+      "content": "交流の場を提供し、地域の結びつきを強化",
+      "coord": "1300,650",
+      "width": 200,
+      "height": 40
+    },
+    {
+      "type": "explanation",
+      "nodeId": "#explanation_2",
+      "content": "地域資源を活用した体験型観光の促進",
+      "coord": "700,900",
+      "width": 200,
+      "height": 40
+    },
+    {
+      "type": "explanation",
+      "nodeId": "#explanation_3",
+      "content": "梅の多様な活用による地域ブランド力向上",
+      "coord": "300,800",
+      "width": 200,
+      "height": 40
+    },
+    {
+      "type": "explanation",
+      "nodeId": "#explanation_4",
+      "content": "地域の魅力を高め、観光客の滞在時間を延長",
+      "coord": "1300,900",
+      "width": 200,
+      "height": 40
+    },
+    {
+      "type": "explanation",
+      "nodeId": "#explanation_5",
+      "content": "多角的なアプローチによる地域活性化",
+      "coord": "900,1000",
+      "width": 200,
+      "height": 40
+    }
+  ],
+  "linkList": [
+    {"linkId": "#link_1", "sourceNodeId": "#20240803063438_jow5", "targetNodeId": "#20240803063438_dWAQ", "propertyName": ""},
+    {"linkId": "#link_2", "sourceNodeId": "#20240803063438_dWAQ", "targetNodeId": "#20240803063438_iCkY", "propertyName": ""},
+    {"linkId": "#link_3", "sourceNodeId": "#20240803063438_iCkY", "targetNodeId": "#20240803063438_5YK6", "propertyName": ""},
+    {"linkId": "#link_4", "sourceNodeId": "#20240803063438_5YK6", "targetNodeId": "#20240803063438_GNA8", "propertyName": ""},
+    {"linkId": "#link_5", "sourceNodeId": "#20240803063438_RkKx", "targetNodeId": "#20240803063438_5YK6", "propertyName": ""},
+    {"linkId": "#link_6", "sourceNodeId": "#20240803063438_jow5", "targetNodeId": "#20240803063438_RkKx", "propertyName": ""},
+    {"linkId": "#link_7", "sourceNodeId": "#20240803063438_rwEG", "targetNodeId": "#20240803063438_jow5", "propertyName": ""},
+    {"linkId": "#link_8", "sourceNodeId": "#20240803063438_GNA8", "targetNodeId": "#20240803063438_rwEG", "propertyName": ""},
+    {"linkId": "#link_9", "sourceNodeId": "#20240803063438_iCkY", "targetNodeId": "#20240803063438_I97D", "propertyName": ""},
+    {"linkId": "#link_10", "sourceNodeId": "#20240803063438_I97D", "targetNodeId": "#20240803063438_GNA8", "propertyName": ""},
+    {"linkId": "#link_11", "sourceNodeId": "#20240803063438_5YK6", "targetNodeId": "#20240803063438_I97D", "propertyName": ""},
+    {"linkId": "#link_12", "sourceNodeId": "#20240803063438_RkKx", "targetNodeId": "#20240803063438_dWAQ", "propertyName": ""},
+    {"linkId": "#link_13", "sourceNodeId": "#20240803063438_51md", "targetNodeId": "#20240803063438_5YK6", "propertyName": "解決案"},
+    {"linkId": "#link_14", "sourceNodeId": "#20240803063438_8mQg", "targetNodeId": "#20240803063438_GNA8", "propertyName": "解決案"},
+    {"linkId": "#link_15", "sourceNodeId": "#20240803063438_Uf5F", "targetNodeId": "#20240803063438_5YK6", "propertyName": "逆方向"},
+    {"linkId": "#link_16", "sourceNodeId": "#20240803063438_51md", "targetNodeId": "#20240803063438_Uf5F", "propertyName": "同方向"},
+    {"linkId": "#link_17", "sourceNodeId": "#20240803063438_8mQg", "targetNodeId": "#20240803063438_Uf5F", "propertyName": "同方向"},
+    {"linkId": "#link_18", "sourceNodeId": "#20240803063438_i1HA", "targetNodeId": "#20240803063438_I97D", "propertyName": "背景付与"},
+    {"linkId": "#link_19", "sourceNodeId": "#20240803063438_Slaz", "targetNodeId": "#20240803063438_I97D", "propertyName": "解決案"},
+    {"linkId": "#link_20", "sourceNodeId": "#20240803063438_m4Jb", "targetNodeId": "#20240803063438_GNA8", "propertyName": "解決案"},
+    {"linkId": "#link_21", "sourceNodeId": "#20240803063438_jdxs", "targetNodeId": "#20240803063438_GNA8", "propertyName": "解決案"},
+    {"linkId": "#link_22", "sourceNodeId": "#20240803063438_2WjC", "targetNodeId": "#20240803063438_m3wA", "propertyName": "活用"},
+    {"linkId": "#link_23", "sourceNodeId": "#20240803063438_2WjC", "targetNodeId": "#20240803063438_cCmy", "propertyName": "促進"},
+    {"linkId": "#link_24", "sourceNodeId": "#20240803063438_3gHe", "targetNodeId": "#20240803063438_GNA8", "propertyName": "強化"},
+    {"linkId": "#link_25", "sourceNodeId": "#20240803063438_QRtN", "targetNodeId": "#20240803063438_GNA8", "propertyName": "解決案"},
+    {"linkId": "#link_26", "sourceNodeId": "#20240803063438_H22b", "targetNodeId": "#20240803063438_GNA8", "propertyName": "新たな可能性"},
+    {"linkId": "#link_27", "sourceNodeId": "#20240803063438_tfS7", "targetNodeId": "#20240803063438_NJqk", "propertyName": "促進"},
+    {"linkId": "#link_28", "sourceNodeId": "#20240803063438_dP8Z", "targetNodeId": "#20240803063438_GNA8", "propertyName": "強化"},
+    {"linkId": "#link_29", "sourceNodeId": "#20240803063438_NJqk", "targetNodeId": "#20240803063438_I97D", "propertyName": "逆方向"},
+    {"linkId": "#link_30", "sourceNodeId": "#20240803063438_fCln", "targetNodeId": "#20240803063438_GNA8", "propertyName": "強化"},
+    {"linkId": "#link_31", "sourceNodeId": "#20240803063438_sHaa", "targetNodeId": "#20240803063438_GNA8", "propertyName": "解決案"},
+    {"linkId": "#explanation_link_1", "sourceNodeId": "#explanation_1", "targetNodeId": "#20240803063438_51md", "propertyName": "説明"},
+    {"linkId": "#explanation_link_2", "sourceNodeId": "#explanation_1", "targetNodeId": "#20240803063438_8mQg", "propertyName": "説明"},
+    {"linkId": "#explanation_link_3", "sourceNodeId": "#explanation_1", "targetNodeId": "#20240803063438_Uf5F", "propertyName": "説明"},
+    {"linkId": "#explanation_link_4", "sourceNodeId": "#explanation_2", "targetNodeId": "#20240803063438_m4Jb", "propertyName": "説明"},
+    {"linkId": "#explanation_link_5", "sourceNodeId": "#explanation_2", "targetNodeId": "#20240803063438_jdxs", "propertyName": "説明"},
+    {"linkId": "#explanation_link_6", "sourceNodeId": "#explanation_3", "targetNodeId": "#20240803063438_2WjC", "propertyName": "説明"},
+    {"linkId": "#explanation_link_7", "sourceNodeId": "#explanation_3", "targetNodeId": "#20240803063438_m3wA", "propertyName": "説明"},
+    {"linkId": "#explanation_link_8", "sourceNodeId": "#explanation_3", "targetNodeId": "#20240803063438_cCmy", "propertyName": "説明"},
+    {"linkId": "#explanation_link_9", "sourceNodeId": "#explanation_3", "targetNodeId": "#20240803063438_QRtN", "propertyName": "説明"},
+    {"linkId": "#explanation_link_10", "sourceNodeId": "#explanation_3", "targetNodeId": "#20240803063438_H22b", "propertyName": "説明"},
+    {"linkId": "#explanation_link_11", "sourceNodeId": "#explanation_4", "targetNodeId": "#20240803063438_tfS7", "propertyName": "説明"},
+    {"linkId": "#explanation_link_12", "sourceNodeId": "#explanation_4", "targetNodeId": "#20240803063438_NJqk", "propertyName": "説明"},
+    {"linkId": "#explanation_link_13", "sourceNodeId": "#explanation_4", "targetNodeId": "#20240803063438_fCln", "propertyName": "説明"},
+    {"linkId": "#explanation_link_14", "sourceNodeId": "#explanation_5", "targetNodeId": "#20240803063438_sHaa", "propertyName": "説明"}
+  ]
+}
