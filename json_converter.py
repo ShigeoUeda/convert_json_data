@@ -3,7 +3,7 @@ import argparse
 from pathlib import Path
 from typing import Dict, List, Tuple
 
-def parse_coordinates(coord_str: str) -> Tuple[int, int]:
+def parse_coordinates(coord_str: str) -> Tuple[float, float]:
     """
     座標文字列をx,y座標に分解
 
@@ -11,13 +11,13 @@ def parse_coordinates(coord_str: str) -> Tuple[int, int]:
         coord_str (str): "x,y"形式の座標文字列
 
     Returns:
-        Tuple[int, int]: (x座標, y座標)のタプル
+        Tuple[float, float]: (x座標, y座標)のタプル
 
     Raises:
         ValueError: 座標文字列のフォーマットが不正な場合
     """
     try:
-        x, y = map(int, coord_str.split(','))
+        x, y = map(float, coord_str.split(','))
         return x, y
     except ValueError as e:
         raise ValueError(f"Invalid coordinate format: {coord_str}") from e
